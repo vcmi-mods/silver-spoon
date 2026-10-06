@@ -1,0 +1,16 @@
+{
+	"core:conflux": {
+		"town": {
+			"buildings": {
+				"special2": {
+					"marketOffer": [
+						"supremacy",
+						"sorcery",
+						"intelligence",
+						"wisdom"
+					]
+				}
+			}
+		}
+	}
+}

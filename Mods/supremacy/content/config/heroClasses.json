@@ -1,0 +1,146 @@
+{
+	"core:knight": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:cleric": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:ranger": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:druid": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:alchemist": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:wizard": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:demoniac": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:heretic": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:deathknight": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:necromancer": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:overlord": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:warlock": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:barbarian": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:battlemage": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:beastmaster": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:witch": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:planeswalker": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	},
+	"core:elementalist": {
+		"secondarySkills": {
+			"fireMagic": 0,
+			"airMagic": 0,
+			"waterMagic": 0,
+			"earthMagic": 0
+		}
+	}
+}

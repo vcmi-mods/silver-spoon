@@ -1,0 +1,84 @@
+{
+	"core:university": {
+		"types": {
+			"object": {
+				"offer": [
+					{
+						"noneOf": [
+							"necromancy",
+							"fireMagic",
+							"airMagic",
+							"waterMagic",
+							"earthMagic"
+						]
+					},
+					{
+						"noneOf": [
+							"necromancy",
+							"fireMagic",
+							"airMagic",
+							"waterMagic",
+							"earthMagic"
+						]
+					},
+					{
+						"noneOf": [
+							"necromancy",
+							"fireMagic",
+							"airMagic",
+							"waterMagic",
+							"earthMagic"
+						]
+					},
+					{
+						"noneOf": [
+							"necromancy",
+							"fireMagic",
+							"airMagic",
+							"waterMagic",
+							"earthMagic"
+						]
+					}
+				]
+			}
+		}
+	},
+	"core:witchHut": {
+		"types": {
+			"witchHut": {
+				"variables": {
+					"secondarySkill": {
+						"gainedSkill": {
+							"noneOf": [
+								"necromancy",
+								"fireMagic",
+								"airMagic",
+								"waterMagic",
+								"earthMagic"
+							]
+						}
+					}
+				}
+			}
+		}
+	},
+	"core:scholar": {
+		"types": {
+			"scholar": {
+				"variables": {
+					"secondarySkill": {
+						"gainedSkill": {
+							"noneOf": [
+								"necromancy",
+								"fireMagic",
+								"airMagic",
+								"waterMagic",
+								"earthMagic"
+							]
+						}
+					}
+				}
+			}
+		}
+	}
+}

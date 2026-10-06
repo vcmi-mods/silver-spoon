@@ -1,0 +1,110 @@
+{
+	"core:luna": {
+		"skills": [
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "supremacy",
+				"level": "basic"
+			}
+		]
+	},
+	"core:brissa": {
+		"skills": [
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "supremacy",
+				"level": "basic"
+			}
+		]
+	},
+	"core:ciele": {
+		"skills": [
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "supremacy",
+				"level": "basic"
+			}
+		]
+	},
+	"core:labetha": {
+		"skills": [
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "supremacy",
+				"level": "basic"
+			}
+		]
+	},
+	"core:inteus": {
+		"skills": [
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "supremacy",
+				"level": "basic"
+			}
+		]
+	},
+	"core:aenain": {
+		"skills": [
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "supremacy",
+				"level": "basic"
+			}
+		]
+	},
+	"core:gelare": {
+		"skills": [
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "supremacy",
+				"level": "basic"
+			}
+		]
+	},
+	"core:grindan": {
+		"skills": [
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "supremacy",
+				"level": "basic"
+			}
+		]
+	},
+	"core:adrienne": {
+		"skills": [
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "supremacy",
+				"level": "expert"
+			}
+		]
+	}
+}
