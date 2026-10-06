@@ -1,11 +1,11 @@
 {
-	"name": "Level Scaling",
-	"description": "Heroes grow stronger with every level: +20% experience gain per level (from level 1), and from level 2 on +1% double-damage chance, ignore 1% enemy defense, +2% spell damage, +100 gold per day, +10% land movement and +100 sea movement points per level after the first. All primary skills get +25%, so each hero gains most in its strongest stats. Rough terrain also costs 50 fewer movement points per tile, like Advanced Pathfinding. A hero whose own specialty already gives one of these bonuses keeps only the specialty's version.",
-	"modType": "Mechanics",
-	"version": "1.2",
-	"author": "An Bui",
-	"compatibility": {
-		"min": "1.7.0"
+	"name" : "Level Scaling",
+	"description" : "Heroes grow stronger with every level: +20% experience gain per level (from level 1), and from level 2 on +1% double-damage chance, ignore 1% enemy defense, +2% spell damage, +100 gold per day, +10% land movement and +100 sea movement points per level after the first. All primary skills get +25%, so each hero gains most in its strongest stats. Rough terrain also costs 50 fewer movement points per tile, like Advanced Pathfinding. A hero whose own specialty already gives one of these bonuses keeps only the specialty's version.",
+	"modType" : "Mechanics",
+	"version" : "1.2",
+	"author" : "An Bui",
+	"compatibility" : {
+		"min" : "1.7.0"
 	},
 	"settings" : {
 		"bonuses" : {
@@ -24,11 +24,11 @@
 						}
 					]
 				},
-				"doubleDamageScaling": {
-					"type": "DOUBLE_DAMAGE_CHANCE",
-					"val": 1,
-					"updater": "TIMES_HERO_LEVEL",
-					"limiters": [
+				"doubleDamageScaling" : {
+					"type" : "DOUBLE_DAMAGE_CHANCE",
+					"val" : 1,
+					"updater" : "TIMES_HERO_LEVEL",
+					"limiters" : [
 						"noneOf",
 						{
 							"type" : "HAS_ANOTHER_BONUS_LIMITER",
@@ -209,12 +209,12 @@
 						}
 					]
 				},
-				"attackScaling": {
-					"type": "PRIMARY_SKILL",
-					"subtype": "attack",
-					"val": 25,
-					"valueType": "PERCENT_TO_BASE",
-					"limiters": [
+				"attackScaling" : {
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "attack",
+					"val" : 25,
+					"valueType" : "PERCENT_TO_BASE",
+					"limiters" : [
 						"noneOf",
 						{
 							"type" : "HAS_ANOTHER_BONUS_LIMITER",
@@ -224,12 +224,12 @@
 						}
 					]
 				},
-				"defenceScaling": {
-					"type": "PRIMARY_SKILL",
-					"subtype": "defence",
-					"val": 25,
-					"valueType": "PERCENT_TO_BASE",
-					"limiters": [
+				"defenceScaling" : {
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "defence",
+					"val" : 25,
+					"valueType" : "PERCENT_TO_BASE",
+					"limiters" : [
 						"noneOf",
 						{
 							"type" : "HAS_ANOTHER_BONUS_LIMITER",
@@ -239,33 +239,33 @@
 						}
 					]
 				},
-				"spellpowerScaling": {
-					"type": "PRIMARY_SKILL",
-					"subtype": "spellpower",
-					"val": 25,
-					"valueType": "PERCENT_TO_BASE",
-					"limiters": [
+				"spellpowerScaling" : {
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "spellpower",
+					"val" : 25,
+					"valueType" : "PERCENT_TO_BASE",
+					"limiters" : [
 						"noneOf",
 						{
-							"type": "HAS_ANOTHER_BONUS_LIMITER",
-							"bonusType": "PRIMARY_SKILL",
-							"bonusSubtype": "spellpower",
-							"bonusSourceType": "HERO_SPECIAL"
+							"type" : "HAS_ANOTHER_BONUS_LIMITER",
+							"bonusType" : "PRIMARY_SKILL",
+							"bonusSubtype" : "spellpower",
+							"bonusSourceType" : "HERO_SPECIAL"
 						}
 					]
 				},
-				"knowledgeScaling": {
-					"type": "PRIMARY_SKILL",
-					"subtype": "knowledge",
-					"val": 25,
-					"valueType": "PERCENT_TO_BASE",
-					"limiters": [
+				"knowledgeScaling" : {
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "knowledge",
+					"val" : 25,
+					"valueType" : "PERCENT_TO_BASE",
+					"limiters" : [
 						"noneOf",
 						{
-							"type": "HAS_ANOTHER_BONUS_LIMITER",
-							"bonusType": "PRIMARY_SKILL",
-							"bonusSubtype": "knowledge",
-							"bonusSourceType": "HERO_SPECIAL"
+							"type" : "HAS_ANOTHER_BONUS_LIMITER",
+							"bonusType" : "PRIMARY_SKILL",
+							"bonusSubtype" : "knowledge",
+							"bonusSourceType" : "HERO_SPECIAL"
 						}
 					]
 				}

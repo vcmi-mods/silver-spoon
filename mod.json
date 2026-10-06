@@ -1,26 +1,26 @@
 {
-	"name": "Silver Spoon",
-	"description": "Spoon-fed heroes: bonuses that grow every level, unlimited secondary skills, and one Supremacy skill for all four magic schools.",
-	"modType": "Mechanics",
-	"version": "1.1.0",
-	"author": "An Bui",
-	"compatibility": {
-		"min": "1.7.0"
+	"name" : "Silver Spoon",
+	"description" : "Spoon-fed heroes: bonuses that grow every level, unlimited secondary skills, and one Supremacy skill for all four magic schools.",
+	"modType" : "Mechanics",
+	"version" : "1.1.0",
+	"author" : "An Bui",
+	"compatibility" : {
+		"min" : "1.7.0"
 	},
 	"softDepends" : [
 		"hota",
 		"wake-of-gods",
 		"tides-of-war"
 	],
-	"contact": "https://github.com/JarexGen/silver-spoon",
-	"changelog": {
-		"1.1.0": [
+	"contact" : "https://github.com/JarexGen/silver-spoon",
+	"changelog" : {
+		"1.1.0" : [
 			"Level Scaling: +20% experience gain per level now starts at level 1",
 			"Level Scaling: primary skills changed from +1 per level to a flat +25% to all four",
 			"Level Scaling: Spell Power and Knowledge no longer stack with a hero's own specialty, like the other bonuses",
 			"New submod Supremacy: one skill replaces Fire, Air, Water and Earth Magic and gives all four schools at its level, with new iron, silver and gold crown icons"
 		],
-		"1.0.3": [
+		"1.0.3" : [
 			"Level Scaling: every per-level bonus starts at level 2, so level 1 heroes keep their normal stats and abilities"
 		],
 		"1.0.2" : [
