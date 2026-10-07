@@ -1,0 +1,18 @@
+{
+	"skill.core.airMagic.description.advanced" : "{Advanced Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at advanced level, for reduced spell points and with increased effect.",
+	"skill.core.airMagic.description.basic" : "{Basic Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at basic level, for reduced spell points.",
+	"skill.core.airMagic.description.expert" : "{Expert Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at expert level, for reduced spell points and with maximum effect.",
+	"skill.core.airMagic.name" : "Supremacy",
+	"skill.core.earthMagic.description.advanced" : "{Advanced Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at advanced level, for reduced spell points and with increased effect.",
+	"skill.core.earthMagic.description.basic" : "{Basic Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at basic level, for reduced spell points.",
+	"skill.core.earthMagic.description.expert" : "{Expert Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at expert level, for reduced spell points and with maximum effect.",
+	"skill.core.earthMagic.name" : "Supremacy",
+	"skill.core.fireMagic.description.advanced" : "{Advanced Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at advanced level, for reduced spell points and with increased effect.",
+	"skill.core.fireMagic.description.basic" : "{Basic Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at basic level, for reduced spell points.",
+	"skill.core.fireMagic.description.expert" : "{Expert Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at expert level, for reduced spell points and with maximum effect.",
+	"skill.core.fireMagic.name" : "Supremacy",
+	"skill.core.waterMagic.description.advanced" : "{Advanced Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at advanced level, for reduced spell points and with increased effect.",
+	"skill.core.waterMagic.description.basic" : "{Basic Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at basic level, for reduced spell points.",
+	"skill.core.waterMagic.description.expert" : "{Expert Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at expert level, for reduced spell points and with maximum effect.",
+	"skill.core.waterMagic.name" : "Supremacy"
+}
