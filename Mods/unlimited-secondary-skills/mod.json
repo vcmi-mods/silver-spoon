@@ -1,17 +1,17 @@
 {
-	"name": "Unlimited Secondary Skills",
-	"description": "Removes the standard 8-skill limit, allowing heroes to learn all skills, and offers every learnable skill at each level-up.",
-	"modType": "Mechanics",
-	"version": "1.1",
-	"author": "An Bui",
-	"compatibility": {
-		"min": "1.7.0"
+	"name" : "Unlimited Secondary Skills",
+	"description" : "Removes the standard 8-skill limit, allowing heroes to learn all skills, and offers every learnable skill at each level-up.",
+	"modType" : "Mechanics",
+	"version" : "1.1",
+	"author" : "An Bui",
+	"compatibility" : {
+		"min" : "1.7.0"
 	},
-	"settings": {
-		"heroes": {
-			"skillPerHero": 999,
-			"levelupTotalSkillsAmount": 999,
-			"levelupUpgradedSkillsAmount": 6
+	"settings" : {
+		"heroes" : {
+			"skillPerHero" : 999,
+			"levelupTotalSkillsAmount" : 999,
+			"levelupUpgradedSkillsAmount" : 6
 		}
 	}
 }

@@ -107,399 +107,399 @@
 			}
 		]
 	},
-	"haven-town:havMhero09": {
-		"skills": [
+	"haven-town:havMhero09" : {
+		"skills" : [
 			{
-				"skill": "learning",
-				"level": "basic"
+				"skill" : "learning",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"haven-town:havMhero10": {
-		"skills": [
+	"haven-town:havMhero10" : {
+		"skills" : [
 			{
-				"skill": "intelligence",
-				"level": "basic"
+				"skill" : "intelligence",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"haven-town:havMhero11": {
-		"skills": [
+	"haven-town:havMhero11" : {
+		"skills" : [
 			{
-				"skill": "supremacy",
-				"level": "advanced"
+				"skill" : "supremacy",
+				"level" : "advanced"
 			}
 		]
 	},
-	"haven-town:havMhero12": {
-		"skills": [
+	"haven-town:havMhero12" : {
+		"skills" : [
 			{
-				"skill": "offence",
-				"level": "basic"
+				"skill" : "offence",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"haven-town:havMhero13": {
-		"skills": [
+	"haven-town:havMhero13" : {
+		"skills" : [
 			{
-				"skill": "sorcery",
-				"level": "basic"
+				"skill" : "sorcery",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"haven-town:havMhero14": {
-		"skills": [
+	"haven-town:havMhero14" : {
+		"skills" : [
 			{
-				"skill": "scholar",
-				"level": "basic"
+				"skill" : "scholar",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"haven-town:havMhero15": {
-		"skills": [
+	"haven-town:havMhero15" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"haven-town:havMhero16": {
-		"skills": [
+	"haven-town:havMhero16" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"hota.cove:12casmetra": {
-		"skills": [
+	"hota.cove:12casmetra" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"hota.cove:16manfred": {
-		"skills": [
+	"hota.cove:16manfred" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"hota.heroes:athe": {
-		"skills": [
+	"hota.heroes:athe" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:bumblewasp": {
-		"skills": [
+	"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:bumblewasp" : {
+		"skills" : [
 			{
-				"skill": "scouting",
-				"level": "basic"
+				"skill" : "scouting",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:waspqueenhero": {
-		"skills": [
+	"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:waspqueenhero" : {
+		"skills" : [
 			{
-				"skill": "leadership",
-				"level": "basic"
+				"skill" : "leadership",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"new-pavilion:1_seref": {
-		"skills": [
+	"new-pavilion:1_seref" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"ruins-town:09rn_horae": {
-		"skills": [
+	"ruins-town:09rn_horae" : {
+		"skills" : [
 			{
-				"skill": "learning",
-				"level": "basic"
+				"skill" : "learning",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"ruins-town:10rn_huldra": {
-		"skills": [
+	"ruins-town:10rn_huldra" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"ruins-town:11rn_kali": {
-		"skills": [
+	"ruins-town:11rn_kali" : {
+		"skills" : [
 			{
-				"skill": "mysticism",
-				"level": "basic"
+				"skill" : "mysticism",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"tarnum.tarnumdriter:tarnumTheDrifter": {
-		"skills": [
+	"tarnum.tarnumdriter:tarnumTheDrifter" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "firstAid",
-				"level": "basic"
+				"skill" : "firstAid",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"neutral-heroes.wogneutralheroes:hegnaar": {
-		"skills": [
+	"neutral-heroes.wogneutralheroes:hegnaar" : {
+		"skills" : [
 			{
-				"skill": "diplomacy",
-				"level": "basic"
+				"skill" : "diplomacy",
+				"level" : "basic"
 			},
 			{
-				"skill": "resistance",
-				"level": "basic"
+				"skill" : "resistance",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"neutral-heroes.wogneutralheroes:rashnar": {
-		"skills": [
+	"neutral-heroes.wogneutralheroes:rashnar" : {
+		"skills" : [
 			{
-				"skill": "tactics",
-				"level": "basic"
+				"skill" : "tactics",
+				"level" : "basic"
 			},
 			{
-				"skill": "artillery",
-				"level": "basic"
+				"skill" : "artillery",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"neutral-heroes.wogneutralheroes:sergiush": {
-		"skills": [
+	"neutral-heroes.wogneutralheroes:sergiush" : {
+		"skills" : [
 			{
-				"skill": "tactics",
-				"level": "basic"
+				"skill" : "tactics",
+				"level" : "basic"
 			},
 			{
-				"skill": "leadership",
-				"level": "basic"
+				"skill" : "leadership",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"neutral-heroes.wogneutralheroes:sherkan": {
-		"skills": [
+	"neutral-heroes.wogneutralheroes:sherkan" : {
+		"skills" : [
 			{
-				"skill": "scholar",
-				"level": "basic"
+				"skill" : "scholar",
+				"level" : "basic"
 			},
 			{
-				"skill": "scouting",
-				"level": "basic"
+				"skill" : "scouting",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"neutral-heroes.wogneutralheroes:shrin": {
-		"skills": [
+	"neutral-heroes.wogneutralheroes:shrin" : {
+		"skills" : [
 			{
-				"skill": "tactics",
-				"level": "basic"
+				"skill" : "tactics",
+				"level" : "basic"
 			},
 			{
-				"skill": "artillery",
-				"level": "basic"
+				"skill" : "artillery",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"tides-of-war.heroes:mdtDaxaroth": {
-		"skills": [
+	"tides-of-war.heroes:mdtDaxaroth" : {
+		"skills" : [
 			{
-				"skill": "offence",
-				"level": "basic"
+				"skill" : "offence",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"tides-of-war.heroes:mdtGhuri": {
-		"skills": [
+	"tides-of-war.heroes:mdtGhuri" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"tides-of-war.heroes:mdtHokori": {
-		"skills": [
+	"tides-of-war.heroes:mdtHokori" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"neutral-heroes.hotaneutralheroes:oukranos": {
-		"skills": [
+	"neutral-heroes.hotaneutralheroes:oukranos" : {
+		"skills" : [
 			{
-				"skill": "scholar",
-				"level": "advanced"
+				"skill" : "scholar",
+				"level" : "advanced"
 			},
 			{
-				"skill": "pathfinding",
-				"level": "basic"
+				"skill" : "pathfinding",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"new-old-heroes:archibald": {
-		"skills": [
+	"new-old-heroes:archibald" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"new-old-heroes:balindar": {
-		"skills": [
+	"new-old-heroes:balindar" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"new-old-heroes:mirael": {
-		"skills": [
+	"new-old-heroes:mirael" : {
+		"skills" : [
 			{
-				"skill": "wisdom",
-				"level": "basic"
+				"skill" : "wisdom",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	},
-	"new-old-heroes:ravenwood": {
-		"skills": [
+	"new-old-heroes:ravenwood" : {
+		"skills" : [
 			{
-				"skill": "leadership",
-				"level": "basic"
+				"skill" : "leadership",
+				"level" : "basic"
 			},
 			{
-				"skill": "supremacy",
-				"level": "basic"
+				"skill" : "supremacy",
+				"level" : "basic"
 			}
 		]
 	}
