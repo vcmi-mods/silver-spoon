@@ -1,71 +1,211 @@
 {
-	"supremacy" : {
-		"name" : "Supremacy",
-		"specialty" : [],
-		"gainChance" : {
-			"might" : 4,
-			"magic" : 6
+	"supremacy": {
+		"name": "Supremacy",
+		"specialty": [],
+		"gainChance": {
+			"might": 4,
+			"magic": 6
 		},
-		"obligatoryMinor" : true,
-		"basic" : {
-			"images" : {
-				"small" : "supremacy/supremacyBasicSmall",
-				"medium" : "supremacy/supremacyBasicMedium",
-				"large" : "supremacy/supremacyBasicLarge",
-				"scenarioBonus" : "supremacy/supremacyBasicBonus"
+		"obligatoryMinor": true,
+		"basic": {
+			"images": {
+				"small": "supremacy/supremacyBasicSmall",
+				"medium": "supremacy/supremacyBasicMedium",
+				"large": "supremacy/supremacyBasicLarge",
+				"scenarioBonus": "supremacy/supremacyBasicBonus"
 			},
-			"description" : "{Basic Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at basic level, for reduced spell points.",
-			"effects" : {
-				"allSchools" : {
-					"type" : "MAGIC_SCHOOL_SKILL",
-					"subtype" : "any",
-					"val" : 1
+			"description": "{Basic Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at basic level, for reduced spell points.",
+			"effects": {
+				"allSchools": {
+					"type": "MAGIC_SCHOOL_SKILL",
+					"subtype": "any",
+					"val": 1
 				}
 			}
 		},
-		"advanced" : {
-			"images" : {
-				"small" : "supremacy/supremacyAdvancedSmall",
-				"medium" : "supremacy/supremacyAdvancedMedium",
-				"large" : "supremacy/supremacyAdvancedLarge",
-				"scenarioBonus" : "supremacy/supremacyAdvancedBonus"
+		"advanced": {
+			"images": {
+				"small": "supremacy/supremacyAdvancedSmall",
+				"medium": "supremacy/supremacyAdvancedMedium",
+				"large": "supremacy/supremacyAdvancedLarge",
+				"scenarioBonus": "supremacy/supremacyAdvancedBonus"
 			},
-			"description" : "{Advanced Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at advanced level, for reduced spell points and with increased effect.",
-			"effects" : {
-				"allSchools" : {
-					"type" : "MAGIC_SCHOOL_SKILL",
-					"subtype" : "any",
-					"val" : 2
+			"description": "{Advanced Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at advanced level, for reduced spell points and with increased effect.",
+			"effects": {
+				"allSchools": {
+					"type": "MAGIC_SCHOOL_SKILL",
+					"subtype": "any",
+					"val": 2
 				}
 			}
 		},
-		"expert" : {
-			"images" : {
-				"small" : "supremacy/supremacyExpertSmall",
-				"medium" : "supremacy/supremacyExpertMedium",
-				"large" : "supremacy/supremacyExpertLarge",
-				"scenarioBonus" : "supremacy/supremacyExpertBonus"
+		"expert": {
+			"images": {
+				"small": "supremacy/supremacyExpertSmall",
+				"medium": "supremacy/supremacyExpertMedium",
+				"large": "supremacy/supremacyExpertLarge",
+				"scenarioBonus": "supremacy/supremacyExpertBonus"
 			},
-			"description" : "{Expert Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at expert level, for reduced spell points and with maximum effect.",
-			"effects" : {
-				"allSchools" : {
-					"type" : "MAGIC_SCHOOL_SKILL",
-					"subtype" : "any",
-					"val" : 3
+			"description": "{Expert Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at expert level, for reduced spell points and with maximum effect.",
+			"effects": {
+				"allSchools": {
+					"type": "MAGIC_SCHOOL_SKILL",
+					"subtype": "any",
+					"val": 3
 				}
 			}
 		}
 	},
-	"core:fireMagic" : {
-		"special" : true
+	"core:fireMagic": {
+		"special": true,
+		"name": "Supremacy",
+		"base": {
+			"effects": {
+				"main": {
+					"subtype": "any"
+				}
+			}
+		},
+		"basic": {
+			"images": {
+				"small": "supremacy/supremacyBasicSmall",
+				"medium": "supremacy/supremacyBasicMedium",
+				"large": "supremacy/supremacyBasicLarge",
+				"scenarioBonus": "supremacy/supremacyBasicBonus"
+			},
+			"description": "{Basic Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at basic level, for reduced spell points."
+		},
+		"advanced": {
+			"images": {
+				"small": "supremacy/supremacyAdvancedSmall",
+				"medium": "supremacy/supremacyAdvancedMedium",
+				"large": "supremacy/supremacyAdvancedLarge",
+				"scenarioBonus": "supremacy/supremacyAdvancedBonus"
+			},
+			"description": "{Advanced Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at advanced level, for reduced spell points and with increased effect."
+		},
+		"expert": {
+			"images": {
+				"small": "supremacy/supremacyExpertSmall",
+				"medium": "supremacy/supremacyExpertMedium",
+				"large": "supremacy/supremacyExpertLarge",
+				"scenarioBonus": "supremacy/supremacyExpertBonus"
+			},
+			"description": "{Expert Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at expert level, for reduced spell points and with maximum effect."
+		}
 	},
-	"core:airMagic" : {
-		"special" : true
+	"core:airMagic": {
+		"special": true,
+		"name": "Supremacy",
+		"base": {
+			"effects": {
+				"main": {
+					"subtype": "any"
+				}
+			}
+		},
+		"basic": {
+			"images": {
+				"small": "supremacy/supremacyBasicSmall",
+				"medium": "supremacy/supremacyBasicMedium",
+				"large": "supremacy/supremacyBasicLarge",
+				"scenarioBonus": "supremacy/supremacyBasicBonus"
+			},
+			"description": "{Basic Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at basic level, for reduced spell points."
+		},
+		"advanced": {
+			"images": {
+				"small": "supremacy/supremacyAdvancedSmall",
+				"medium": "supremacy/supremacyAdvancedMedium",
+				"large": "supremacy/supremacyAdvancedLarge",
+				"scenarioBonus": "supremacy/supremacyAdvancedBonus"
+			},
+			"description": "{Advanced Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at advanced level, for reduced spell points and with increased effect."
+		},
+		"expert": {
+			"images": {
+				"small": "supremacy/supremacyExpertSmall",
+				"medium": "supremacy/supremacyExpertMedium",
+				"large": "supremacy/supremacyExpertLarge",
+				"scenarioBonus": "supremacy/supremacyExpertBonus"
+			},
+			"description": "{Expert Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at expert level, for reduced spell points and with maximum effect."
+		}
 	},
-	"core:waterMagic" : {
-		"special" : true
+	"core:waterMagic": {
+		"special": true,
+		"name": "Supremacy",
+		"base": {
+			"effects": {
+				"main": {
+					"subtype": "any"
+				}
+			}
+		},
+		"basic": {
+			"images": {
+				"small": "supremacy/supremacyBasicSmall",
+				"medium": "supremacy/supremacyBasicMedium",
+				"large": "supremacy/supremacyBasicLarge",
+				"scenarioBonus": "supremacy/supremacyBasicBonus"
+			},
+			"description": "{Basic Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at basic level, for reduced spell points."
+		},
+		"advanced": {
+			"images": {
+				"small": "supremacy/supremacyAdvancedSmall",
+				"medium": "supremacy/supremacyAdvancedMedium",
+				"large": "supremacy/supremacyAdvancedLarge",
+				"scenarioBonus": "supremacy/supremacyAdvancedBonus"
+			},
+			"description": "{Advanced Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at advanced level, for reduced spell points and with increased effect."
+		},
+		"expert": {
+			"images": {
+				"small": "supremacy/supremacyExpertSmall",
+				"medium": "supremacy/supremacyExpertMedium",
+				"large": "supremacy/supremacyExpertLarge",
+				"scenarioBonus": "supremacy/supremacyExpertBonus"
+			},
+			"description": "{Expert Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at expert level, for reduced spell points and with maximum effect."
+		}
 	},
-	"core:earthMagic" : {
-		"special" : true
+	"core:earthMagic": {
+		"special": true,
+		"name": "Supremacy",
+		"base": {
+			"effects": {
+				"main": {
+					"subtype": "any"
+				}
+			}
+		},
+		"basic": {
+			"images": {
+				"small": "supremacy/supremacyBasicSmall",
+				"medium": "supremacy/supremacyBasicMedium",
+				"large": "supremacy/supremacyBasicLarge",
+				"scenarioBonus": "supremacy/supremacyBasicBonus"
+			},
+			"description": "{Basic Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at basic level, for reduced spell points."
+		},
+		"advanced": {
+			"images": {
+				"small": "supremacy/supremacyAdvancedSmall",
+				"medium": "supremacy/supremacyAdvancedMedium",
+				"large": "supremacy/supremacyAdvancedLarge",
+				"scenarioBonus": "supremacy/supremacyAdvancedBonus"
+			},
+			"description": "{Advanced Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at advanced level, for reduced spell points and with increased effect."
+		},
+		"expert": {
+			"images": {
+				"small": "supremacy/supremacyExpertSmall",
+				"medium": "supremacy/supremacyExpertMedium",
+				"large": "supremacy/supremacyExpertLarge",
+				"scenarioBonus": "supremacy/supremacyExpertBonus"
+			},
+			"description": "{Expert Supremacy}\n\nCombines the four elemental schools: your hero casts Fire, Air, Water and Earth spells at expert level, for reduced spell points and with maximum effect."
+		}
 	}
 }

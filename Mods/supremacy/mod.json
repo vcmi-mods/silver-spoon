@@ -1,28 +1,34 @@
 {
-	"name" : "Supremacy",
-	"description" : "Replaces the four elemental magic skills (Fire, Air, Water and Earth Magic) with one skill, Supremacy, which gives all four schools at its level. Heroes who started with an elemental skill start with Supremacy instead (Adrienne at Expert), heroes are no longer offered the elemental skills, and universities, Witch Huts and Scholars no longer teach them. The Conflux Magic University sells Supremacy.",
-	"modType" : "Skills",
-	"version" : "1.0",
-	"author" : "An Bui",
-	"compatibility" : {
-		"min" : "1.7.0"
+	"name": "Supremacy",
+	"description": "Replaces the four elemental magic skills (Fire, Air, Water and Earth Magic) with one skill, Supremacy, which gives all four schools at its level. Heroes who started with an elemental skill start with Supremacy instead (Adrienne at Expert), heroes are no longer offered the elemental skills, and universities, Witch Huts and Scholars no longer teach them. The Conflux Magic University sells Supremacy.",
+	"modType": "Skills",
+	"version": "1.0",
+	"author": "An Bui",
+	"compatibility": {
+		"min": "1.7.0"
 	},
-	"conflicts" : [
+	"softDepends": [
+		"haven-town",
+		"ruins-town",
+		"new-old-heroes",
+		"new-pavilion"
+	],
+	"conflicts": [
 		"new-skills-pack.omnimancy"
 	],
-	"skills" : [
+	"skills": [
 		"config/skills.json"
 	],
-	"heroes" : [
+	"heroes": [
 		"config/heroes.json"
 	],
-	"heroClasses" : [
+	"heroClasses": [
 		"config/heroClasses.json"
 	],
-	"objects" : [
+	"objects": [
 		"config/objects.json"
 	],
-	"factions" : [
+	"factions": [
 		"config/factions.json"
 	]
 }

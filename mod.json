@@ -1,35 +1,39 @@
 {
-	"name" : "Silver Spoon",
-	"description" : "Spoon-fed heroes: bonuses that grow every level, unlimited secondary skills, and one Supremacy skill for all four magic schools.",
-	"modType" : "Mechanics",
-	"version" : "1.1.0",
-	"author" : "An Bui",
-	"compatibility" : {
-		"min" : "1.7.0"
+	"name": "Silver Spoon",
+	"description": "Spoon-fed heroes: bonuses that grow every level, unlimited secondary skills, and one Supremacy skill for all four magic schools.",
+	"modType": "Mechanics",
+	"version": "1.1.1",
+	"author": "An Bui",
+	"compatibility": {
+		"min": "1.7.0"
 	},
-	"softDepends" : [
+	"softDepends": [
 		"hota",
 		"wake-of-gods",
 		"tides-of-war"
 	],
-	"contact" : "https://github.com/JarexGen/silver-spoon",
-	"changelog" : {
-		"1.1.0" : [
+	"contact": "https://github.com/JarexGen/silver-spoon",
+	"changelog": {
+		"1.1.1": [
+			"Unlimited Secondary Skills: every learnable skill is offered at each level-up (was 2), including up to 6 upgrades of skills the hero already has; use the arrows in the level-up window to browse them",
+			"Supremacy: heroes from other mods who start with an elemental magic skill now get Supremacy instead, and any Fire, Air, Water or Earth Magic handed out by a map also becomes Supremacy"
+		],
+		"1.1.0": [
 			"Level Scaling: +20% experience gain per level now starts at level 1",
 			"Level Scaling: primary skills changed from +1 per level to a flat +25% to all four",
 			"Level Scaling: Spell Power and Knowledge no longer stack with a hero's own specialty, like the other bonuses",
 			"New submod Supremacy: one skill replaces Fire, Air, Water and Earth Magic and gives all four schools at its level, with new iron, silver and gold crown icons"
 		],
-		"1.0.3" : [
+		"1.0.3": [
 			"Level Scaling: every per-level bonus starts at level 2, so level 1 heroes keep their normal stats and abilities"
 		],
-		"1.0.2" : [
+		"1.0.2": [
 			"Level Scaling: a bonus is skipped for heroes whose specialty already gives the same bonus (previously only experience)"
 		],
-		"1.0.1" : [
+		"1.0.1": [
 			"Level Scaling: land movement +10% per level (was +2%), new +100 sea movement points per level, rough terrain costs 50 fewer movement points per tile"
 		],
-		"1.0.0" : [
+		"1.0.0": [
 			"Initial release: Level Scaling, Unlimited Secondary Skills"
 		]
 	}
