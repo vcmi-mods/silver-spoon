@@ -1,17 +1,17 @@
 {
-	"name": "Improved Eagle Eye",
-	"description": "Eagle Eye always works: before every battle the hero fires a free Magic Arrow at every enemy stack (10 x Spell Power + 10 / 20 / 30 damage), and has a 100% chance to learn every spell the enemy cast in a battle your hero wins, up to level 2 / 4 / 5 (Basic / Advanced / Expert). Wisdom still limits the spell level.",
-	"modType": "Mechanics",
-	"version": "1.0",
-	"author": "An Bui",
-	"compatibility": {
-		"min": "1.7.0"
+	"name" : "Improved Eagle Eye",
+	"description" : "Eagle Eye always works: before every battle the hero fires a free Magic Arrow at every enemy stack (10 x Spell Power + 10 / 20 / 30 damage), and has a 100% chance to learn every spell the enemy cast in a battle your hero wins, up to level 2 / 4 / 5 (Basic / Advanced / Expert). Wisdom still limits the spell level.",
+	"modType" : "Mechanics",
+	"version" : "1.0",
+	"author" : "An Bui",
+	"compatibility" : {
+		"min" : "1.7.0"
 	},
-	"softDepends": [
+	"softDepends" : [
 		"hota.gamebalance.skills.eagleeye",
 		"an-expansion.skills.learning.eagle-eye"
 	],
-	"skills": [
+	"skills" : [
 		"config/skills.json"
 	]
 }

@@ -1,16 +1,16 @@
 {
-	"name": "Skill Rework",
-	"description": "Makes weak secondary skills worth taking. Mysticism: refills 20% / 35% / 50% of the hero's maximum spell points every day (at least 5 / 10 / 15).",
-	"modType": "Mechanics",
-	"version": "1.0",
-	"author": "An Bui",
-	"compatibility": {
-		"min": "1.7.0"
+	"name" : "Skill Rework",
+	"description" : "Makes weak secondary skills worth taking. Mysticism: refills 20% / 35% / 50% of the hero's maximum spell points every day (at least 5 / 10 / 15).",
+	"modType" : "Mechanics",
+	"version" : "1.0",
+	"author" : "An Bui",
+	"compatibility" : {
+		"min" : "1.7.0"
 	},
-	"softDepends": [
+	"softDepends" : [
 		"hota.gamebalance.skills.mysticism"
 	],
-	"skills": [
+	"skills" : [
 		"config/skills.json"
 	]
 }

@@ -1,56 +1,56 @@
 {
-	"core:eagleEye": {
-		"basic": {
-			"description": "{Basic Eagle Eye}\n\nBefore the first turn of every battle, your hero fires a free Magic Arrow at every enemy stack (10 x Spell Power + 10 damage). Your hero also has a 100% chance to learn any spell of level 1-2 used in combat by the enemy, if your hero wins the battle.",
-			"effects": {
-				"main": {
-					"val": 100
+	"core:eagleEye" : {
+		"basic" : {
+			"description" : "{Basic Eagle Eye}\n\nBefore the first turn of every battle, your hero fires a free Magic Arrow at every enemy stack (10 x Spell Power + 10 damage). Your hero also has a 100% chance to learn any spell of level 1-2 used in combat by the enemy, if your hero wins the battle.",
+			"effects" : {
+				"main" : {
+					"val" : 100
 				},
-				"val2": {
-					"val": 2
+				"val2" : {
+					"val" : 2
 				},
-				"openingArrow": {
-					"type": "OPENING_BATTLE_SPELL",
-					"subtype": "spell.magicArrow",
-					"val": 1,
-					"addInfo": 1,
-					"valueType": "BASE_NUMBER"
+				"openingArrow" : {
+					"type" : "OPENING_BATTLE_SPELL",
+					"subtype" : "spell.magicArrow",
+					"val" : 1,
+					"addInfo" : 1,
+					"valueType" : "BASE_NUMBER"
 				}
 			}
 		},
-		"advanced": {
-			"description": "{Advanced Eagle Eye}\n\nBefore the first turn of every battle, your hero fires a free Magic Arrow at every enemy stack (10 x Spell Power + 20 damage). Your hero also has a 100% chance to learn any spell of level 1-4 used in combat by the enemy, if your hero wins the battle.",
-			"effects": {
-				"main": {
-					"val": 100
+		"advanced" : {
+			"description" : "{Advanced Eagle Eye}\n\nBefore the first turn of every battle, your hero fires a free Magic Arrow at every enemy stack (10 x Spell Power + 20 damage). Your hero also has a 100% chance to learn any spell of level 1-4 used in combat by the enemy, if your hero wins the battle.",
+			"effects" : {
+				"main" : {
+					"val" : 100
 				},
-				"val2": {
-					"val": 4
+				"val2" : {
+					"val" : 4
 				},
-				"openingArrow": {
-					"type": "OPENING_BATTLE_SPELL",
-					"subtype": "spell.magicArrow",
-					"val": 1,
-					"addInfo": 2,
-					"valueType": "BASE_NUMBER"
+				"openingArrow" : {
+					"type" : "OPENING_BATTLE_SPELL",
+					"subtype" : "spell.magicArrow",
+					"val" : 1,
+					"addInfo" : 2,
+					"valueType" : "BASE_NUMBER"
 				}
 			}
 		},
-		"expert": {
-			"description": "{Expert Eagle Eye}\n\nBefore the first turn of every battle, your hero fires a free Magic Arrow at every enemy stack (10 x Spell Power + 30 damage). Your hero also has a 100% chance to learn any spell of level 1-5 used in combat by the enemy, if your hero wins the battle.",
-			"effects": {
-				"main": {
-					"val": 100
+		"expert" : {
+			"description" : "{Expert Eagle Eye}\n\nBefore the first turn of every battle, your hero fires a free Magic Arrow at every enemy stack (10 x Spell Power + 30 damage). Your hero also has a 100% chance to learn any spell of level 1-5 used in combat by the enemy, if your hero wins the battle.",
+			"effects" : {
+				"main" : {
+					"val" : 100
 				},
-				"val2": {
-					"val": 5
+				"val2" : {
+					"val" : 5
 				},
-				"openingArrow": {
-					"type": "OPENING_BATTLE_SPELL",
-					"subtype": "spell.magicArrow",
-					"val": 1,
-					"addInfo": 3,
-					"valueType": "BASE_NUMBER"
+				"openingArrow" : {
+					"type" : "OPENING_BATTLE_SPELL",
+					"subtype" : "spell.magicArrow",
+					"val" : 1,
+					"addInfo" : 3,
+					"valueType" : "BASE_NUMBER"
 				}
 			}
 		}
